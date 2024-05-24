@@ -1,5 +1,6 @@
 # DynamicStringDecrypterV2
 This is a update version of DynamicStringDecrypter
+ORIGINAL SOURCE: https://github.com/ribthegreat99OrN0P/DynamicStringDecrypter
 ## UPDATES:
 
 ### Changes and Improvements in the New Code
